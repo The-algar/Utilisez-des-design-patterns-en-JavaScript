@@ -12,3 +12,6 @@ class Quiz {
         return "C'était pas si difficile :)"
     }
 }
+
+// Ici j'instancie la question 4 du quizz
+const quizz4 = new Quiz('partie-1', 4)
